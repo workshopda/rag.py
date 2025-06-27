@@ -1,6 +1,5 @@
 # rag.py
 
-#bash
 import os
 from langchain_community.llms import Ollama
 from langchain_community.document_loaders import TextLoader, PyPDFLoader, UnstructuredWordDocumentLoader
